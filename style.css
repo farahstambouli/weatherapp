@@ -1,0 +1,26 @@
+/* Style for label */
+label {
+    display: block; /* Display block to place label on its own line */
+    margin-bottom: 10px; /* Add space below the label */
+}
+
+/* Style for input text field */
+input {
+    width: 50%; /* Take up full width of parent container */
+    padding: 8px; /* Add padding for better visual appearance */
+    margin-bottom: 10px; /* Add space below the input */
+}
+
+/* Style for button */
+button {
+    padding: 10px 20px; /* Add padding for button content */
+    background-color: #007bff; /* Blue background color */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    cursor: pointer; /* Set cursor to pointer on hover */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue background color on hover */
+}
+
